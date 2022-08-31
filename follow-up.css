@@ -1,0 +1,115 @@
+.Survey-container{
+    
+   width: 450px;
+    background-color: gray;
+    padding-top: 70px;
+    padding-bottom: 20px;
+    padding-left: 450px;
+    padding-right: 450px;
+    height: fit-content;
+    height: 600px;
+        
+}
+.Main{
+    height:50px;
+    background-color: black;
+}
+
+.Header{
+    height: 40px;
+    
+    background-color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 25px;
+    color: brown;
+    font-size:small;
+    padding-left: 80px;
+    padding-bottom: 25px;
+}   
+.Body-content{
+    height:fit-content;
+   
+    
+    background-color:rgb(204, 202, 202);
+    
+}
+.Row{
+    margin-inline: 10px;
+    display: inline-block;
+    
+   
+
+}
+.Col1{
+    width:45%;
+    float: left;
+    display: block;
+   
+}
+.Col2{
+    width:45%;
+    float: right;
+    display: block;
+   
+   
+}
+.element-block{
+font-size: 7px !important;
+color: brown;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Labels{
+    font-size:6px !important;
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   float: left;
+   
+}
+.Date{
+    
+    border-radius: 5px;
+    
+    width: 100%;
+}
+.Input1{
+   
+    border-radius: 5px;
+    width: 100%;
+}
+.Radio {
+    float: left;
+}
+.Single-radio{
+   display: inline-block;
+}
+.Rowfinal{
+    text-align: justify;
+
+}
+.Rowfinal :after{
+    content:"";
+    display: inline-block;
+    width: 100%;
+}
+
+.Submit{
+    margin-top: 10px;
+    margin-bottom: 10px;   
+    position: relative;
+    right: 40%;
+    left: 40%;
+    text-align: center;
+    width: 20%;
+    color: #fff;
+    background-image: linear-gradient(black,gray );
+    border-radius: 5px;
+}
+.Datee{
+    font-size: 5px;
+}
+.test{
+font-size: 6px ;
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
